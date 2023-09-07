@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 20px;
+  }
+  
+  .otp-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  
+  input {
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+    font-size: 24px;
+    text-align: center;
+    border: 2px solid red;
+    outline: none;
+  }
+  
+  input.filled {
+    border-color: black;
+  }
+  
